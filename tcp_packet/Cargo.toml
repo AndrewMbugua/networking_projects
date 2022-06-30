@@ -1,0 +1,21 @@
+[package]
+name = "tcp_packet"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "tcp_packet"
+src = "src/main.rs"
+
+[lib]
+name = "tcp_packet"
+src = "src/lib.rs"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+tokio = { version = "1.19.2", features = ["full"] }
+cargo-deps = "1.4.1"
+
