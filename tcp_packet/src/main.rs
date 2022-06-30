@@ -1,6 +1,4 @@
 #![allow(unused_imports)]
-
-
 use std::io::Write;
 use std::net::Ipv6Addr;
 use std::net::TcpStream;
