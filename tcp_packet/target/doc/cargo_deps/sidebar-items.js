@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Error","Error type for the crate."]],"fn":[["get_dep_graph","Gets the full representation of the dependency graph, without converting it to graphviz output."],["render_dep_graph","Converts the dependency graph representation into a graphviz string."]],"struct":[["Config","Configuration options."]],"type":[["Result","Result type for the crate."]]});
