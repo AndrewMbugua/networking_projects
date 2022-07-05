@@ -1,0 +1,28 @@
+CMAKE_TOOLCHAIN_FILE_x86_64-unknown-linux-gnu = None
+CMAKE_TOOLCHAIN_FILE_x86_64_unknown_linux_gnu = None
+HOST_CMAKE_TOOLCHAIN_FILE = None
+CMAKE_TOOLCHAIN_FILE = None
+CMAKE_GENERATOR_x86_64-unknown-linux-gnu = None
+CMAKE_GENERATOR_x86_64_unknown_linux_gnu = None
+HOST_CMAKE_GENERATOR = None
+CMAKE_GENERATOR = None
+CMAKE_PREFIX_PATH_x86_64-unknown-linux-gnu = None
+CMAKE_PREFIX_PATH_x86_64_unknown_linux_gnu = None
+HOST_CMAKE_PREFIX_PATH = None
+CMAKE_PREFIX_PATH = None
+CMAKE_x86_64-unknown-linux-gnu = None
+CMAKE_x86_64_unknown_linux_gnu = None
+HOST_CMAKE = None
+CMAKE = None
+running: "cmake" "/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/libbadmath" "-DCMAKE_INSTALL_PREFIX=/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out" "-DCMAKE_C_FLAGS= -ffunction-sections -fdata-sections -fPIC -m64" "-DCMAKE_C_COMPILER=/usr/bin/cc" "-DCMAKE_CXX_FLAGS= -ffunction-sections -fdata-sections -fPIC -m64" "-DCMAKE_CXX_COMPILER=/usr/bin/c++" "-DCMAKE_ASM_FLAGS= -ffunction-sections -fdata-sections -fPIC -m64" "-DCMAKE_ASM_COMPILER=/usr/bin/cc" "-DCMAKE_BUILD_TYPE=Debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build
+running: "cmake" "--build" "." "--target" "install" "--config" "Debug" "--parallel" "8"
+[100%] Built target badmath
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/./libbadmath.a
+cargo:root=/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out
+cargo:rustc-link-search=native=/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out
+cargo:rustc-link-lib=static=badmath

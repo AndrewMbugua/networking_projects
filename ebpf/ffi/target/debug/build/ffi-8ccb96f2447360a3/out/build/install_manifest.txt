@@ -1,0 +1,1 @@
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/./libbadmath.a

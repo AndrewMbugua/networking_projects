@@ -1,0 +1,7 @@
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build/CMakeFiles/install/strip.dir
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build/CMakeFiles/install/local.dir
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build/CMakeFiles/install.dir
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build/CMakeFiles/list_install_components.dir
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build/CMakeFiles/edit_cache.dir
+/home/andrew/Documents/Rust-learning/system_programming/ffi/ffi/target/debug/build/ffi-8ccb96f2447360a3/out/build/CMakeFiles/badmath.dir

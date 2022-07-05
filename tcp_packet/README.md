@@ -19,3 +19,6 @@ Ideas:
 1. Re-convert bytes to string
 2. Encode - Decode
 3. Encryption - TCP uses TLS Encryption
+
+Corrections & improvments
+1. Change Option type to bool.
